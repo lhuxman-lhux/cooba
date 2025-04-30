@@ -5780,18 +5780,7 @@
 147.45.72.29,8443,SE,Aeza International
 77.91.87.63,8443,SE,Aeza International
 147.45.73.233,8443,SE,Aeza International
-91.192.81.21,443,SG,Melbikom
-91.192.81.27,443,SG,Melbikom
-91.192.81.8,443,SG,Melbikom
-103.172.116.8,443,SG,Melbikom
-103.172.116.7,443,SG,Melbikom
-103.172.116.28,443,SG,Melbikom
-146.19.196.8,443,SG,Melbikom
-146.19.196.17,443,SG,Melbikom
-146.19.196.9,443,SG,Melbikom
-146.19.196.74,443,SG,Melbikom
-46.19.196.5,443,SG,Melbikom
-185.230.245.7,443,SG,Melbikom
+5.154.245.13,443,SG,Google
 146.235.18.248,45137,SG,Oracle Cloud
 129.150.58.86,57621,SG,Oracle Cloud
 47.74.254.191,8900,SG,Alibaba
