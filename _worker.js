@@ -1,6 +1,6 @@
 import { connect } from "cloudflare:sockets";
 // import { createHash, createDecipheriv } from "node:crypto";
-// import { Buffer } from "node:buffer";
+// import { Buffer } from "node:buffer";update
 
 // Variables
 const rootDomain = "foolvpn.me"; // Ganti dengan domain utama kalian
